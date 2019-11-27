@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataAnalysis/DataAnalysis.iml" filepath="$PROJECT_DIR$/DataAnalysis/DataAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataConsumption/DataConsumption.iml" filepath="$PROJECT_DIR$/DataConsumption/DataConsumption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataReduction/DataReduction.iml" filepath="$PROJECT_DIR$/DataReduction/DataReduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataVisualization/DataVisualization.iml" filepath="$PROJECT_DIR$/DataVisualization/DataVisualization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersonalAdministration.iml" filepath="$PROJECT_DIR$/PersonalAdministration.iml" />
+    </modules>
+  </component>
+</project>

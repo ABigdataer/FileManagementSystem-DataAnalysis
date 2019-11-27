@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DataVisualization:war">
+    <output-path>$PROJECT_DIR$/DataVisualization/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>DataVisualization</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="DataVisualization.war">
+      <element id="artifact" artifact-name="DataVisualization:war exploded" />
+    </root>
+  </artifact>
+</component>

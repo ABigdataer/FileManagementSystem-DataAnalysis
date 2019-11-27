@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DataAnalysis" />
+        <module name="DataConsumption" />
+        <module name="DataReduction" />
+        <module name="DataVisualization" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DataAnalysis" target="1.8" />
+      <module name="DataConsumption" target="1.8" />
+      <module name="DataReduction" target="1.8" />
+      <module name="DataVisualization" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

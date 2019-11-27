@@ -1,0 +1,14 @@
+kvbean\base\BasicKeyDemo.class
+reducer\EducationDataAnalysisReducer.class
+mapper\BirthdayDataAnalysisMapper.class
+kvbean\base\BaseDBDemo.class
+kvbean\key\EducationalBackgroundStatistics.class
+mapper\EducationDataAnalysisMapper.class
+kvbean\key\BirthdayReducerKey.class
+utils\JDBCInstance.class
+utils\JDBCUtil.class
+reducer\BirthdayDataAnalysisReducer.class
+kvbean\key\BirthdayMapperKey.class
+kvbean\base\BaseDemo.class
+kvbean\value\BasicData.class
+runner\DataAnalysisRunner.class

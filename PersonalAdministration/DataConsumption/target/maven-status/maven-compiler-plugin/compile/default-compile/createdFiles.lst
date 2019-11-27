@@ -1,0 +1,5 @@
+dao\HBaseDAO.class
+kafka\HBaseConsumptionDataFromKafka.class
+utils\HBaseUtil.class
+utils\PropertiesUtil.class
+utils\ConnectionInstance.class
